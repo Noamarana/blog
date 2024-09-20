@@ -1,0 +1,7 @@
+[submodule "EnrollmentCenterUpdates/themes/mainroad"]
+	path = EnrollmentCenterUpdates/themes/mainroad
+	url = https://github.com/Vimux/Mainroad.git
+[submodule "EnrollmentCenterUpdates/public"]
+	path = EnrollmentCenterUpdates/public
+	url = https://github.com/Noamarana/EnrollmentCenterUpdates.github.io.git
+	branch = main
